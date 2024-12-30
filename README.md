@@ -107,5 +107,3 @@ Feel free to fork this project and open issues or pull requests if you'd like to
 - **Error Handling**: Explains how errors, such as invalid files or directories, are handled.
 - **License**: States the licensing information for the project.
 - **Contributions**: Encourages other developers to contribute to the project.
-
-This should be a complete and helpful `README.md` for your text search tool implemented in Rust.
