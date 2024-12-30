@@ -1,6 +1,3 @@
-Here is a `README.md` file for your Rust-based text search tool that uses the `clap` crate for argument parsing:
-
-```markdown
 # Rust Text Search Tool (Grep-like)
 
 This is a simple command-line utility written in Rust, designed to search for a specific pattern in files within a directory (and its subdirectories). It mimics the functionality of the `grep` command, offering both case-sensitive and case-insensitive search modes.
