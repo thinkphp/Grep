@@ -50,7 +50,7 @@ cargo run "error"
 ```
 
 #### 2. Case-Insensitive Search
-To search for the pattern `TODO` in the `/home/user/projects` directory, ignoring case:
+To search for the pattern `create_folder` in the `/home/user/projects` directory, ignoring case:
 
 ```bash
 cargo run "TODO" --path /home/user/projects --ignore-case
