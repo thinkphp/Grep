@@ -53,7 +53,7 @@ cargo run "error"
 To search for the pattern `create_folder` in the `/home/user/projects` directory, ignoring case:
 
 ```bash
-cargo run "TODO" --path /home/user/projects --ignore-case
+cargo run "create_folder" --path /home/user/projects --ignore-case
 ```
 
 #### 3. Searching a Specific Directory
