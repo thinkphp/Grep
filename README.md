@@ -19,7 +19,7 @@ This is a simple command-line utility written in Rust, designed to search for a 
 
    ```bash
    git clone https://github.com/thinkphp/grep.git
-   cd rust-text-search
+   cd grep
    ```
 
 2. **Build the Project**
