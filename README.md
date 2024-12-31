@@ -1,4 +1,4 @@
-# Rust Text Search Tool (Grep-like)
+# Rust Grep
 
 This is a simple command-line utility written in Rust, designed to search for a specific pattern in files within a directory (and its subdirectories). It mimics the functionality of the `grep` command, offering both case-sensitive and case-insensitive search modes.
 
