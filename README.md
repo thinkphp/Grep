@@ -18,7 +18,7 @@ This is a simple command-line utility written in Rust, designed to search for a 
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/rust-text-search.git
+   git clone https://github.com/thinkphp/grep.git
    cd rust-text-search
    ```
 
